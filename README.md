@@ -3,8 +3,11 @@
 Tugas 14 Pemrograman Mobile 2
 
 
-## 📦 APK
-➡️ [Link ke APK]([https://github.com/Nzzhm/Simple-Note-App-Flutter-Firebase-authicator-SQLite/releases/download/v1.0.0/app-release.apk](https://github.com/Nzzhm/Simple-Note-App-Flutter-Firebase-authicator-SQLite/releases/tag/v1.0.0))
+## 📦 Download Aplikasi
+APK tersedia di halaman **GitHub Releases**:
+
+🔗 https://github.com/Nzzhm/Simple-Note-App-Flutter-Firebase-authicator-SQLite/releases
+
 
 
 ## Screenshoot Aplikasi
